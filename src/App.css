@@ -14,10 +14,11 @@
 }
 
 .img1 {
-    height: 80px;
-    width: 80px;
-    border-radius: 80px;
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
     margin-right: 10px;
+    background-size: cover;
 }
 
 .img2 {
